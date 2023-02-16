@@ -1,0 +1,330 @@
+*{
+	padding:0px;
+	margin:0px;
+	box-sizing:border-box;
+}
+.container{
+	width:1170px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-container{
+	display:flex;
+	flex-wrap:wrap;
+	margin-left:-15px;
+	margin-right:-15px;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-1{
+	width:8.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-2{
+	width:16.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-3{
+	width:25%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-4{
+	width:33.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-5{
+	width:41.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-6{
+	width:50%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-7{
+	width:58.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-8{
+	width:66.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-9{
+	width:75%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-10{
+	width:83.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-11{
+	width:91.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-12{
+	width:100%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.header{
+	background-color:red;
+	padding:10px 0;
+}
+.mentor{
+	background-color:black;
+	height:50px;
+}
+.nevigation{
+	background-color:blue;
+	height:50px;
+	width:800px;
+}
+.website{
+	background-color:grey;
+	padding:90px 0;
+	height:300px;
+}
+.motivation{
+	background-color:black;
+	height:100px;
+}
+.content{
+	background-color:green;
+	height:400px;
+	padding:20px;
+}	
+.text{
+	background-color:blue;
+	height:300px;
+}
+.image1{
+	background-color:black;
+	height:350px;
+}
+.detail{
+	background-color:red;
+	height:100px;
+	padding:10px 0;
+}
+.student{
+	background-color:black;
+	height:80px;
+	width:80px;
+	margin-left:50px;
+}
+.course{
+	background-color:black;
+	height:80px;
+	width:80px;
+	margin-left:50px;
+}
+.event{
+	background-color:black;
+	height:80px;
+	width:80px;
+	margin-left:50px;
+}
+.teacher{
+	background-color:black;
+	height:80px;
+	width:80px;
+	margin-left:50px;
+}
+.define{
+	background-color:gray;
+	height:400px;
+}
+.explain{
+	background-color:yellow;
+	height:350px;
+	margin-top:10px;
+}
+.explain1{
+	background-color:yellow;
+	height:300px;
+	border:2px solid black;
+	margin-top:20px;
+}
+.explain2{
+	background-color:yellow;
+	height:300px;
+	margin-top:20px;
+	border:2px solid black;
+}
+.explain3{
+	background-color:yellow;
+	height:300px;
+	margin-top:20px;
+	border:2px solid black;
+}
+.icon{
+	background-color:green;
+	height:400px; 
+	padding:20px 0;
+}
+.icon1{
+	background-color:white;
+	height:100px;
+	border:2px solid black;
+}
+.icon2{
+	background-color:white;
+	height:100px;
+	border:2px solid black;
+}
+.icon3{
+	background-color:white;
+	height:100px;
+	border:2px solid black;
+}
+.icon4{
+	background-color:white;
+	height:100px;
+	border:2px solid black;
+}
+.icon5{
+	background-color:white;
+	height:100px;
+	border:2px solid black;
+}
+.icon6{
+	background-color:white;
+	height:100px;
+	border:2px solid black;
+}
+.icon7{
+	background-color:white;
+	height:100px;
+	border:2px solid black;
+}
+.icon8{
+	background-color:white;
+	height:100px;
+	border:2px solid black;
+}
+.icon9{
+	background-color:white;
+	height:100px;
+	border:2px solid black;
+}
+.icon10{
+	background-color:white;
+	height:100px;
+	border:2px solid black;
+}
+.icon11{
+	background-color:white;
+	height:100px;
+	border:2px solid black;
+}
+.icon12{
+	background-color:white;
+	height:100px;
+	border:2px solid black;
+}
+.courses{
+	background-color:gray;
+	height:500px; 
+	padding-top:50px;
+}
+.heading{
+	height:100px;
+	width:300px;
+	background-color:black; 
+}
+.image2{
+	background-color:yellow;
+	height:300px;
+	border:2px solid black;
+	margin-top:10px;
+}
+.image3{
+	background-color:yellow;
+	height:300px;
+	border:2px solid black;
+	margin-top:10px;
+}
+.image4{
+	background-color:yellow;
+	height:300px;
+	border:2px solid black;
+	margin-top:10px;
+}
+.model{
+	background-color:blue;
+	height:500px;
+	padding:10px 0;
+}
+.image5{
+	background-color:red;
+	height:450px;
+	border:2px solid black;
+}
+.image6{
+	background-color:red;
+	height:450px;
+	border:2px solid black;
+}
+.image7{
+	background-color:red;
+	height:450px;
+	border:2px solid black;
+}
+.contact{
+	background-color:gray;
+	padding:20px 0px;
+}
+.address{
+	background-color:green;
+	height:200px
+}
+.links{
+	background-color:green;
+	height:200px;
+}
+.service{
+	background-color:green;
+	height:200px;
+}
+.subscribe{
+	background-color:green;
+	height:200px;
+}
+.symbol{
+	background-color:red;
+	justify-content:space-between;
+	padding:10px 0;
+	
+}
+.symbol1{
+	background-color:black;
+	height:80px;
+}
+.symbol2{
+	background-color:black;
+	height:80px;
+}
